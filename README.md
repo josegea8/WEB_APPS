@@ -11,3 +11,11 @@ https://mafusa.net/
 - [Anclajes](https://mafusa.net/AnclajesRespon/calcsIndex.html)
 - [Aplastamiento](https://mafusa.net/AplastamientoPy/main.php)
 - [Tabulación](https://mafusa.net/TabulacionPy/Index.php)
+<br><br>
+## LENGUAJES EMPLEADOS:
+[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Php](https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]() 
+[![MySQL](https://img.shields.io/badge/MySQL-FFCA28?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
