@@ -1,5 +1,5 @@
 # WEB_APPS
-Repositorio de Aplicaciones creadas para empresa `Mafusa`
+Repositorio de Aplicaciones creadas para empresa `Mafusa` (No he subido el codigo por privacidad a la empresa, pero hay estan los resultados)
 
 <img alt="alt_text" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawZUaeaYRr2D4I8v5J59luvUJOWkCBZPfiQ6GwAPk&s" />
 
